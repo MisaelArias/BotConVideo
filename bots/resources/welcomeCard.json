@@ -29,6 +29,16 @@
       "type": "Action.OpenUrl",
       "title": "Learn how to deploy",
       "url": "https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-4.0"
-    }
+    },
+    {
+            "type": "Media",
+            "poster": "https://adaptivecards.io/content/poster-video.png",
+            "sources": [
+                {
+                    "mimeType": "video/mp4",
+                    "url": "https://adaptivecardsblob.blob.core.windows.net/assets/AdaptiveCardsOverviewVideo.mp4"
+                }
+            ]
+        }
   ]
 }
